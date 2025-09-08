@@ -73,7 +73,7 @@ Do NOT use it on networks or systems without explicit authorization.
 👨‍💻 Built With
 Python 3.x
 Socket Programming
-Guidance from #TamizhanSkills
+
 
 🚀 Open to Opportunities
 I'm actively learning and exploring the field of cybersecurity and network analysis, and I'm open to internship and project opportunities. Let’s connect!
